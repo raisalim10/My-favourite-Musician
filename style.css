@@ -1,0 +1,148 @@
+.image img{
+    width: 100%;
+    position: relative;
+}
+h1{
+    font-family: cursive;
+    font-size: 40px;
+    margin: 0;
+    color: rgb(245, 242, 242);
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    margin: 0;
+    color: rgb(2, 7, 78);
+    text-align: center;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: rgb(77, 233, 15);
+}
+.h3{font-size: 40px;
+    margin: 0;
+    color:wheat ;
+    text-align: center;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: salmon;
+}
+header{
+    background-color:rgb(12, 12, 12);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    color: white;
+}
+nav li{
+    margin-left: 40px;
+    color: white;
+}
+main{
+    background-color:rgb(12, 12, 12);
+    padding: 20px;
+    max-width: 2400px;
+    margin: auto;
+    
+}
+.about p{ text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(250, 248, 248);
+    display: block;
+    
+}
+.tabulation table{
+    margin: auto;
+    border: rgb(250, 247, 247);
+    margin-top: 20px;
+}
+.tabulation th{
+    font-size: xx-large;
+    color: rgb(31, 3, 68);
+}
+.tabulation td{
+    border: 2px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: brown;
+    color: green;
+    display: inline;
+    display: block;
+}
+.news h4 { font-size: x-large;
+    text-align: center;
+    color: darkgreen;
+
+}
+.news ul{
+    font-size: 40px;
+    color: salmon;
+    text-align: center;
+}
+.store form{ text-align: center;
+    font-size: x-large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.store button{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    padding: 10px 20px;
+}
+.store input{
+    width: 100%;
+    padding: 20px;
+    text-align: left;
+    text-align: center;
+}
+.media img{
+    width: 100%;
+    position: relative;
+
+}
+
+footer{
+    padding: 10px;
+    background-color: rgb(240, 240, 248);
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer p{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    display: block;
+    color:white;
+}
+.about h3{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(2, 7, 78);
+}
+footer{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+}
+.nav{
+    color: white;
+}
